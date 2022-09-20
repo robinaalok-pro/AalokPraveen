@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AalokPraveen
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different projects of C, Cpp, JAVA, Web Development and Design.
 - 📫 How to reach me my instagram id @robinaalok
 
 <!---
